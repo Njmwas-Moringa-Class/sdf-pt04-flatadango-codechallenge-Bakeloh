@@ -1,3 +1,5 @@
+// Your code here
+
 document.addEventListener("DOMContentLoaded", () => {
     const baseURL = "http://localhost:3001";
     const movieTitle = document.getElementById("title");
