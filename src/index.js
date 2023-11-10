@@ -1,7 +1,7 @@
 // Your code here
 
 document.addEventListener("DOMContentLoaded", () => {
-    const baseURL = "http://localhost:3001";
+    const baseURL = "http://localhost:3000";
     const movieTitle = document.getElementById("title");
     const movieDuration = document.getElementById("runtime");
     const movieInfo = document.getElementById("film-info");
